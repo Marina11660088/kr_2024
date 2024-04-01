@@ -7,6 +7,7 @@
     <list default="true" id="7648af98-a788-48a0-8b66-d8bd208fbbed" name="Changes" comment="project">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/post-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/post-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-details.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711561565917</updated>
       <workItem from="1711561566944" duration="137000" />
-      <workItem from="1711561718392" duration="30376000" />
+      <workItem from="1711561718392" duration="30560000" />
     </task>
     <task id="LOCAL-00001" summary="project">
       <option name="closed" value="true" />
@@ -58,13 +59,30 @@
       <option name="project" value="LOCAL" />
       <updated>1711998348932</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mini-project">
+      <option name="closed" value="true" />
+      <created>1711998594413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711998594413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project">
+      <option name="closed" value="true" />
+      <created>1711998707653</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711998707653</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="mini-project" />
     <MESSAGE value="project" />
     <option name="LAST_COMMIT_MESSAGE" value="project" />
   </component>
@@ -73,7 +91,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/index.html</url>
-          <line>58</line>
+          <line>60</line>
           <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
